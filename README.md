@@ -13,4 +13,6 @@ Visit this [link](https://www.google.com)
 
 End of the story !!
 
-This file was modified manually during conflicts resolution 
+This file was modified manually during conflicts resolution
+
+- Changes following the first push origin 
