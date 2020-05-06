@@ -13,4 +13,4 @@ Visit this [link](https://www.google.com)
 
 End of the story !!
 
-But the line is modified locally
+This file was modified manually during conflicts resolution 
